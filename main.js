@@ -19,7 +19,7 @@ document.getElementById('site-header').innerHTML = `
 document.getElementById('site-footer').innerHTML = `
   <footer>
     Built with ❤️ by the community &nbsp;·&nbsp;
-    <a href="https://github.com/your-username/your-repo" target="_blank">Contribute on GitHub</a>
+    <a href="https://github.com/GANESH-NADKARNI/first-opensource-contribution" target="_blank">Contribute on GitHub</a>
   </footer>
 `;
 
