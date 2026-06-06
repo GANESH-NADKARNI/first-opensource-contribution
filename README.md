@@ -33,12 +33,12 @@ Then click the **pencil icon ✏️** (top right) to edit it.
 ### Step 3 — Find this line
 
 ```
-<!-- ADD YOUR CARD BELOW THIS LINE -->
+<!-- ADD YOUR CARD ABOVE THIS LINE -->
 ```
 
 ---
 
-### Step 4 — Paste your card right below it
+### Step 4 — Paste your card right ABOVE it
 
 Copy this template and fill in your details:
 
@@ -68,7 +68,7 @@ Copy this template and fill in your details:
 </div>
 ```
 
-✅ `data-avatar` is optional — paste any public image URL to show your photo
+✅ `data-avatar` is optional — paste any public image URL to show any picture 
 ✅ If you skip `data-avatar`, your initials appear automatically
 ✅ Delete any `<a>` line for links you don't have
 ✅ Do not change anything else — the card number, suit, and effects are all automatic
